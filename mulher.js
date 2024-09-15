@@ -12,6 +12,8 @@ function mostraMulher(request, response){
         minibio: 'Desenvolvedora web front-end'
     })
 }
+
+
 function mostraPorta() {
   console.log("Servidor criado e rodando na porta ", porta);
 }
